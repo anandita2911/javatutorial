@@ -16,8 +16,8 @@ public class class_creation {
         anandita.id=2121;
         anandita.name="khushi";
         anandita.salary=80;
-        System.out.println("ajju cutie salary is = "+anandita.getsalary()+"lpa");
-        System.out.println("ajju cutie gf is  = "+anandita.name);
+        System.out.println("ajju salary is = "+anandita.getsalary()+"lpa");
+        System.out.println("ajju is  = "+anandita.name);
 
     }
 }
